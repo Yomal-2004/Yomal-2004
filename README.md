@@ -84,7 +84,7 @@ class Yomal:
 | Oct 2024 – Nov 2025 | **WEBCOMMS** | Developer |
 | Jan – Sep 2024 | **DP IT Campus Yatiyantota** | Worked on 250+ projects |
 | Completed 2023 | Rajasinghe Central College, Ruwanwella | G.C.E. Advanced Level (Physical Science stream) |
-| Completed 2020 | Rajasinghe Central College, Ruwanwella | G.C.E. Ordinary Level |
+| Completed 2020 | Siriwardhana National School, Yatiyantota | G.C.E. Ordinary Level |
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
